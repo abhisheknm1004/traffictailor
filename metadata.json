@@ -1,0 +1,8 @@
+
+{
+  "name": "TrafficTailor AI Copilot",
+  "description": "A specialized AI growth assistant for website performance, SEO, and conversion optimization, acting as a senior consultant for business owners.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
